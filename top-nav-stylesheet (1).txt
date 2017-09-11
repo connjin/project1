@@ -1,0 +1,17 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-question-icon-top-nav {
+    width: 36px;
+    height: 38px;
+    background-position: -5px -5px;
+}
+
+.sprite-settings-icon-top-nav {
+    width: 44px;
+    height: 38px;
+    background-position: -51px -5px;
+}
