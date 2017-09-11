@@ -346,18 +346,159 @@ body {
 	padding-bottom: 2%;
 	margin-left: auto;
 	margin-right: auto;
+	padding-top: 5%;
+	padding-left: 2%;
 }
 
 .tasks-list h4{
 	text-align: left;
-	padding-top: 5%;
+	padding-top: 2px;
+	padding-bottom: 2%;
 }
 
 .tasks-list img {
-	padding-top: 1%;
+	padding-top: 5%;
+	padding-bottom: 3%;
 }
 
-.numberCircle {
+.num-1 {
+	background-image: url(num-1.png);
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 16px;
+	width: 25px;
+
+}
+
+.task-1:hover .num-1 {
+	background: url(num-1-grey.png);
+	 background-repeat: no-repeat;
+	height: 16px;
+	width: 25px;
+
+}
+
+.ppl-1 {
+	background-image: url(task-ppl-1.png);
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 30px;
+	width: 80px;
+
+}
+
+.task-1:hover .ppl-1 {
+	background: url(task-ppl-1-grey.png);
+	 background-repeat: no-repeat;
+	height: 30px;
+	width: 80px;
+
+}
+
+.num-2 {
+	background-image: url(num-2.png);
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 16px;
+	width: 25px;
+
+}
+
+.task-2:hover .num-2 {
+	background: url(num-2-grey.png);
+	 background-repeat: no-repeat;
+	height: 16px;
+	width: 25px;
+
+}
+
+.ppl-2 {
+	background-image: url(task-ppl-2.png);
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 30px;
+	width: 80px;
+
+}
+
+.task-2:hover .ppl-2 {
+	background: url(task-ppl-1-grey.png);
+	 background-repeat: no-repeat;
+	height: 30px;
+	width: 80px;
+
+}
+
+.num-3 {
+	background-image: url(num-3.png);
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 16px;
+	width: 25px;
+
+}
+
+.task-3:hover .num-3 {
+	background: url(num-3-grey.png);
+	 background-repeat: no-repeat;
+	height: 16px;
+	width: 25px;
+
+}
+
+.ppl-3 {
+	background-image: url(task-ppl-3.png);
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 30px;
+	width: 80px;
+
+}
+
+.task-3:hover .ppl-3 {
+	background: url(task-ppl-3-grey.png);
+	 background-repeat: no-repeat;
+	height: 30px;
+	width: 80px;
+
+}
+
+.num-4 {
+	background-image: url(num-4.png);
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 16px;
+	width: 25px;
+
+}
+
+.task-4:hover .num-4 {
+	background: url(num-4-grey.png);
+	 background-repeat: no-repeat;
+	height: 16px;
+	width: 25px;
+
+}
+
+.ppl-4 {
+	background-image: url(task-ppl-4.png);
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 30px;
+	width: 80px;
+
+}
+
+.task-4:hover .ppl-4 {
+	background: url(task-ppl-1-grey.png);
+	 background-repeat: no-repeat;
+	height: 30px;
+	width: 80px;
+
+}
+
+
+/*.numberCircle {
 	border-radius: 50%;
 	width: 20px;
 	font-size: 20px;
@@ -372,7 +513,7 @@ body {
 	color: white;
 	margin: 0;
 	padding-bottom: 2%;
-}
+}*/
 
 /*----recs-----*/
 
